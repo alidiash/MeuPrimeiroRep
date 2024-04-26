@@ -2,13 +2,15 @@
 
 ## Alícia Dias 
 
-### Estudo **Desenvolvimento de Sistemas**
+### Estudo _Desenvolvimento de Sistemas_
 
 ### Sou da turma _DEV1A_
 
-### Meu animal predileto é **macaco**
+### Meu animal predileto é _macaco_
 
-### Eu amo **pintar minhas unhas**
+### Eu amo _pintar minhas unhas_
 
-### Minha cor favorita é **rosa**
+### Minha cor favorita é _rosa_ `#RRGGBB`
+
+### 
  
