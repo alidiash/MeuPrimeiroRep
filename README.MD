@@ -8,7 +8,7 @@
 
 ### Meu animal predileto é _macaco_
 
-### :EMOJICODE: star_struck:Eu amo _pintar minhas unhas_
+### Eu amo _pintar minhas unhas_
 
 ### Minha cor favorita é _rosa_ 
 
