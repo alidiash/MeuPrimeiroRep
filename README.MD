@@ -10,7 +10,6 @@
 
 ### Eu amo _pintar minhas unhas_
 
-### Minha cor favorita é _rosa_ `#RRGGBB`
+### Minha cor favorita é _rosa_ 
 
-### 
  
